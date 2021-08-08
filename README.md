@@ -6,7 +6,6 @@ Download and open `index.html` to play the game!
 
 - levels
 - high scores
-- fx
 
 ![tetris picture](assets/share-image-large.png)
 
