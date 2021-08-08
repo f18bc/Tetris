@@ -1,3 +1,3 @@
 # Tetris
 
-A very simple tetris game, download it and click start.html to play it!
+A very simple tetris game, download it and index.html to play it!
