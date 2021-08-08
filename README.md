@@ -1,3 +1,4 @@
+##Tetris
 A simple Tetris game in JavaScript.
 Download and open `index.html` to play the game!
 
